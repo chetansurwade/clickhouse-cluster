@@ -1,4 +1,4 @@
-# Tutorial for set up clickhouse server
+# Fully Operational Clickhouse Cluster for OLAP needs.
 
 
 ## Single server with docker
@@ -22,6 +22,15 @@ Now you can see if it success setup or not.
 
 ## Setup Cluster
 
+To get started simply.
+```
+make up
+```
+
+To tear down the cluster simply
+```
+make down
+```
 
 This part we will setup
 
